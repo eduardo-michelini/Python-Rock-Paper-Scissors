@@ -1,14 +1,21 @@
 # Python-Rock-Paper-Scissors
-Game Rules
-1.Match:A Best of 3 competition between the player and a bot.
-2.Winner:The first to reach 3 points wins the game.
-3.Options:Choose between ROCK, PAPER, or SCISSORS.
-4.Input:Invalid choices don't count and let you try again.
-5.Restart:Option to start a fresh match or exit after the game ends.
+
+A simple and practical Rock, Paper, Scissors game made with Python. You can face off against a bot in a "Best of 3" match, featuring real-time scoring and the option to restart the game at any time. Enjoy!
+
+Explanation:
+1) Setup: Asks for your name and initializes the scores at zero to start.
+2) Loop: Keeps the game running through rounds until someone reaches 3 points.
+3) Gameplay: Compares your choice with the bot's using win logic (Rock beats Scissors, etc).
+4) Scoreboard: Shows the result of each round and who is currently leading.
+5) Restart: At the end, allows you to choose between playing again or exiting the program.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Regras do Jogo
-1.Partida:Uma disputa de Melhor de 3 entre o jogador e um bot.
-2.Vencedor:O primeiro a atingir 3 pontos ganha o jogo.
-3.Opções:Escolha entre PEDRA, PAPEL ou TESOURA.
-4.Entrada:Escolhas inválidas não contam ponto e permitem tentar de novo.
-5.Reinício:Opção de começar uma nova partida ou sair após o término.
+# Python-Pedra-Papel-Tesoura
+Um jogo de Pedra, Papel e Tesoura simples e prático feito em Python. Você pode enfrentar um bot em uma disputa de melhor de 3, com placar em tempo real e a opção de reiniciar a partida a qualquer momento. Divirta-se!
+
+Explicação:
+1) Setup: Pede o seu nome e cria os placares zerados para começar.
+2) Loop: Mantém o jogo rodando em rodadas até que alguém atinja 3 pontos.
+3) Jogada: Compara sua escolha com a do bot usando lógica de vitória (Pedra vence Tesoura, etc).
+4) Placar: Mostra o resultado de cada rodada e quem está na frente.
+5) Reinício: Ao final, permite escolher entre jogar novamente ou sair do programa.
